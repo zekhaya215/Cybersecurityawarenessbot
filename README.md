@@ -56,29 +56,12 @@ Effects & UI Enhancements
 * Exit sequence
 
 
-Project Structure
-
-```
-CybersecurityAwarenessBot/
-│
-├── Program.cs        // Entry point
-├── Chatbot.cs        // Main chatbot logic
-├── User.cs           // User data handling
-├── AudioPlayer.cs    // Audio playback
-├── Greeting.wav      // Voice greeting file
-```
-
----
-
  How to Run the Program
 
 1. Open the project in Visual Studio
 
 2. Make sure `Greeting.wav` is in the output folder:
 
-  
-   bin/Debug/netX.X/
-  
 
 3. Install required package:
 
